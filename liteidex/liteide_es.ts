@@ -7,61 +7,61 @@
         <location filename="src/liteapp/aboutdialog.ui" line="20"/>
         <source>About LiteIDE</source>
         <oldsource>About Liteide</oldsource>
-        <translation>À propos de LiteIDE</translation>
+        <translation>Acerca de LiteIDE</translation>
     </message>
     <message>
         <location filename="src/liteapp/aboutdialog.ui" line="156"/>
         <source>Information</source>
         <oldsource>Infomation</oldsource>
-        <translation>Informations</translation>
+        <translation>Información</translation>
     </message>
     <message>
         <location filename="src/liteapp/aboutdialog.ui" line="162"/>
         <source>Welcome:</source>
-        <translation>Bienvenue :</translation>
+        <translation>Bienvenidos :</translation>
     </message>
     <message>
         <location filename="src/liteapp/aboutdialog.ui" line="168"/>
         <source>Welcome to LiteIDE X! LiteIDE is a simple, open source, cross-platform IDE.</source>
         <oldsource>Welcome to LiteIDE X!
 LiteIDE is a simple, open source, cross-platform IDE.</oldsource>
-        <translation>Bienvenu dans LiteIDE X ! LiteIDE est un IDE simple, open source et indépendant de la plate-forme.</translation>
+        <translation>¡Bienvenidos a LiteIDE X! LiteIDE es un IDE simple, de código abierto e independiente de la plataforma.</translation>
     </message>
     <message>
         <location filename="src/liteapp/aboutdialog.ui" line="178"/>
         <source>Project:</source>
-        <translation>Projet :</translation>
+        <translation>Proyecto :</translation>
     </message>
     <message>
         <location filename="src/liteapp/aboutdialog.ui" line="208"/>
         <source>Name:</source>
-        <translation>Nom :</translation>
+        <translation>Nombre :</translation>
     </message>
     <message>
         <location filename="src/liteapp/aboutdialog.ui" line="191"/>
         <source>Author:</source>
-        <translation>Auteur :</translation>
+        <translation>Autor :</translation>
     </message>
     <message>
         <location filename="src/liteapp/aboutdialog.ui" line="222"/>
         <source>Version:</source>
-        <translation>Version :</translation>
+        <translation>Versión :</translation>
     </message>
     <message>
         <location filename="src/liteapp/aboutdialog.ui" line="242"/>
         <source>Build:</source>
-        <translation>Compilation :</translation>
+        <translation>Compilacion :</translation>
     </message>
     <message>
         <location filename="src/liteapp/aboutdialog.ui" line="215"/>
         <source>Based on Qt</source>
         <oldsource>Based on Qt Version</oldsource>
-        <translation>Basé sur Qt</translation>
+        <translation>Basado en Qt</translation>
     </message>
     <message>
         <location filename="src/liteapp/aboutdialog.ui" line="249"/>
         <source>Source Code:</source>
-        <translation>Code source :</translation>
+        <translation>Código fuente :</translation>
     </message>
     <message>
         <location filename="src/liteapp/aboutdialog.ui" line="263"/>
